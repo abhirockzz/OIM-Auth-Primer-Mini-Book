@@ -3,6 +3,8 @@ OIM Authentication Primer
 
 A mini book which talks about some of the internals of Oracle Identity Manager.
 
+(You can download the PDF from this repository)
+
 It starts off with basics of the Java Authentication and Authorization API (JAAS) and Weblogic Security and a builds the foundation which should help you understand the details behind the Authentication process within Oracle Identity Manager
 
 ## Contents ##
